@@ -8,4 +8,4 @@
 
 - [跑步历史记录](Run.md)
 
-> Last date：2022/6/5
+> Last date：2022/6/17
