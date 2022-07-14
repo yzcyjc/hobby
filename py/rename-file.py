@@ -19,5 +19,5 @@ def test(dirname, qz):
 
 if __name__ == "__main__":
     dirname = input('请输入要批量修改文件名的目录路径：')  # 要修改文件名的目录的路径
-    qz = input('请设定修改后的文件名的前缀：') + '_'        # 设定修改后的文件名前缀字符串
+    qz = input('请设定修改后的文件名的前缀：')       # 设定修改后的文件名前缀字符串
     test(dirname, qz)
