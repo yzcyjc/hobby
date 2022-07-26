@@ -1,5 +1,10 @@
 # Python第三方库
 
+
+|名称|简介|安装方式|
+|---|---|---|---|
+|[vaex](https://github.com/vaexio/vaex)|Vaex是一个针对懒惰的高性能Python库核外数据帧(类似于熊猫)，来可视化和探索大的表格数据集。它计算统计数字例如平均值、总和、计数、标准偏差等n维网格超过十亿 (10^9)样本/行每秒钟.可视化是通过使用直方图, 密度图和三维体绘制，允许交互探索大数据。Vaex使用内存映射、零内存复制策略和惰性计算来实现最佳性能(不浪费内存)。|\$ pip install vaex  <hr/>  \$ conda install -c conda-forge vaex|
+
 - Numpy
 - Pandas
 - Sympy

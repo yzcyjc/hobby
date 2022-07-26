@@ -8,4 +8,6 @@
 
 - [跑步历史记录](Run.md)
 
-> Last date：2022/7/14
+- [历史观影记录](History-video.md)
+
+> Last date：2022/7/27
